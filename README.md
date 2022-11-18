@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LayxProud
 - 👀 I’m interested in finding a coding sphere I'll be happy with
 - 🌱 I’m currently learning Python and its libraries
-- 💞️ I’m looking to find a job so badly
+- 💞️ I want a job so badly
 - 📫 You can reach me in Telegram (@layxproud) or by email (layxproud@mail.ru)
 
 <!---
