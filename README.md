@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=layxproud&theme=radical" alt="layxproud" /></a> </p>
 
-- 🌱 I’m currently learning **Qt and OpenCV**
+- 🌱 I’m currently working with **C++, Qt and OpenCV**
 
 - 📫 How to reach me **layxproud@gmail.com**
 
