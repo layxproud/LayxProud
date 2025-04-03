@@ -11,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/Death's Touch#4914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Death's Touch#4914" height="30" width="40" /></a>
 <a href="https://vk.com/layxproud" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/48px-VK_Compact_Logo_%282021-present%29.svg.png" alt="Дмитрий Новожилов" height="30" width="30" /></a>
 </p>
 
