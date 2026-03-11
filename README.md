@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=layxproud&label=Profile%20views&color=0e75b6&style=flat" alt="layxproud" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=layxproud)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=layxproud)](https://github-profile-trophy-liard-delta.vercel.app)
 
 - 🌱 I’m currently working with **C++, Golang, Qt and OpenCV**
 
