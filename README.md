@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=layxproud&label=Profile%20views&color=0e75b6&style=flat" alt="layxproud" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=layxproud&theme=radical" alt="layxproud" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=layxproud)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I’m currently working with **C++, Qt and OpenCV**
+- 🌱 I’m currently working with **C++, Golang, Qt and OpenCV**
 
 - 📫 How to reach me **layxproud@gmail.com**
 
