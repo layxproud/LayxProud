@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=layxproud&label=Profile%20views&color=0e75b6&style=flat" alt="layxproud" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=layxproud)](https://github-profile-trophy-liard-delta.vercel.app)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygh.kolioaris.xyz/?username=layxproud&theme=radical" alt="layxproud" /></a> </p>
 
 - 🌱 I’m currently working with **C++, Golang, Qt and OpenCV**
 
@@ -21,4 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=layxproud&show_icons=true&locale=en&layout=compact&theme=radical" alt="layxproud" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=layxproud&show_icons=true&locale=en&theme=radical" alt="layxproud" /></p>
-
